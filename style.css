@@ -1,0 +1,57 @@
+/* reset*/
+{
+    margin:O;
+    padding:O;
+    box-sizing:boder-box;
+    font-family:Arial,sans-serif;
+}
+body(
+    bacjground:#fff;
+    color:#333;
+}
+/*Navbar*/
+.navar(
+    display:flex;
+justify-content:space-between;
+align-items:center;
+padding:20px;
+background:#f4f4f4;
+}
+.nav-links a{
+    text-decoration:none;
+    color:#333;
+}
+/*Hero section8*/
+.hero{
+    display:flex;
+    justify-content: space-between;
+    aling-items:center;
+    padding:60px;
+}
+.hero-text{
+    flex:1;
+}
+.hero-text h1{
+    font size:28px;
+    margin-bottom:10px;
+}
+.hero-text span{
+    color:#0077cc;
+}
+.btn{
+    background:#0077cc;
+    color:#fff;
+    padding:10px 20px;
+    text-decoration:none:dashed
+    border-radius:5px;
+    ]
+    .hero-img img{
+        max-width:250px;
+    }
+
+    
+
+
+
+
+
