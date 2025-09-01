@@ -1,16 +1,16 @@
 /* reset*/
-{
+body{
     margin:O;
     padding:O;
     box-sizing:boder-box;
     font-family:Arial,sans-serif;
 }
-body(
-    bacjground:#fff;
+body{
+    background:#fff;
     color:#333;
 }
 /*Navbar*/
-.navar(
+.navbar{
     display:flex;
 justify-content:space-between;
 align-items:center;
@@ -25,7 +25,7 @@ background:#f4f4f4;
 .hero{
     display:flex;
     justify-content: space-between;
-    aling-items:center;
+    align-items:center;
     padding:60px;
 }
 .hero-text{
@@ -44,9 +44,10 @@ background:#f4f4f4;
     padding:10px 20px;
     text-decoration:none:dashed
     border-radius:5px;
-    ]
-    .hero-img img{
+}
+.hero-img img{
         max-width:250px;
+        border-radius: 15%;
     }
 
     
