@@ -32,17 +32,17 @@ background:#f4f4f4;
     flex:1;
 }
 .hero-text h1{
-    font size:28px;
+    font-size:28px;
     margin-bottom:10px;
 }
-.hero-text span{
+.hero :-moz-any{
     color:#0077cc;
 }
 .btn{
     background:#0077cc;
     color:#fff;
     padding:10px 20px;
-    text-decoration:none:dashed
+    text-decoration:none;
     border-radius:5px;
 }
 .hero-img img{
